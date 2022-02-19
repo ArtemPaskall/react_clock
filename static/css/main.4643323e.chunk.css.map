@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,cAAe,CAChB,OAGC,kBAAmB,CACnB,WAAY","file":"main.4643323e.chunk.css","sourcesContent":[".time {\n  padding: 20px 0;\n}\n\n.clock {\n  padding: 0 0 0 10px;\n  color: green;\n}\n"]}
